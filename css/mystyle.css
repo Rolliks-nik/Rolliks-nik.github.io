@@ -1,11 +1,56 @@
-#h1
-{
-margin : 30px;
-color : red;
-}
 
 #p1
 {
-color : blue;
-font-style : impact;
+font-style : chicago;
+font-size: 20pt;
 }
+
+#p2
+{
+margin-top: 30px;
+text-align: center;
+font-size: 32pt;
+font-style: italic;
+
+}
+
+#p3
+{
+margin-top: -10px;
+margin-left: 30px;
+font-size: 20pt;
+font-style: italic;
+text-decoration: underline;
+}
+
+#p4
+{
+margin-top: -10px;
+margin-left: 45px;
+font-size: 18pt;
+}
+
+#div1
+{
+align:center;
+}
+
+#div3
+{
+position:absolute;
+top: 126px;
+left: 600px;
+
+}
+
+a
+{
+	text-decoration: none;
+	color: green;
+	
+}
+
+a:hover
+	{
+		color: red;
+	}

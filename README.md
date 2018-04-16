@@ -6,4 +6,4 @@
 <br>
 [Ссылка на репозиторий](https://github.com/Rolliks-nik/Rolliks-nik.github.io)
 
-#[Задача №5 (Activity Diagram)](https://github.com/stankin/oop-2018/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-%E2%84%965-(Activity-Diagram))
+### [Диаграмма деятельности с плавательными дорожками - Задание №5](https://github.com/stankin/oop-2018/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B0-%E2%84%965-(Activity-Diagram))

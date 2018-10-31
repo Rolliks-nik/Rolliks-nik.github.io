@@ -1,56 +1,115 @@
+body
+{
+	background: silver;
+}
+
+#td3
+{
+	height: 50px;
+	text-align: center;
+	font-size: 16pt;
+	width: 250px;
+	background: limegreen;
+	
+	
+	
+	border-right: 1px solid black;
+	border-left: 1px solid black;
+}
+
+#table1
+{
+	border-collapse: collapse;
+	border: 1px solid black;
+}
+
+td a
+{
+	text-decoration: none;
+	color: black;
+width: 100%;
+height: 100%;
+display: block;
+padding:8px;
+	
+}
+
+a
+{
+	color: red;
+}
+a:hover
+	{
+		color: yellow;
+		text-decoration: underline;
+	}
 
 #p1
 {
-font-style : chicago;
-font-size: 20pt;
+	text-align: center;
+	font-size: 26pt;
 }
 
-#p2
+#div1
 {
-margin-top: 30px;
-text-align: center;
-font-size: 32pt;
-font-style: italic;
-
+	margin-left: 15%; /* Отступ слева */
+     	margin-right: 15%; /* Отступ справа */
 }
+
 
 #p3
 {
-margin-top: -10px;
+margin-top: 10px;
 margin-left: 30px;
-font-size: 20pt;
+font-size: 24pt;
 font-style: italic;
 text-decoration: underline;
+text-align: center;
 }
 
 #p4
 {
 margin-top: -10px;
-margin-left: 45px;
+margin-left: 37px;
 font-size: 18pt;
+text-align: center;
 }
 
-#div1
+#p5
 {
-align:center;
+	margin-top: 30px;
+	font-size: 22pt;
+	margin-left: 15px;
 }
 
-#div3
+#p6
 {
-position:absolute;
-top: 126px;
-left: 600px;
-
-}
-
-a
-{
-	text-decoration: none;
-	color: green;
+	
+	font-size: 18pt;
+	margin-left: 20px;
 	
 }
 
-a:hover
-	{
-		color: red;
-	}
+#p7
+{
+	
+	font-size: 14pt;
+	margin-left: 20px;
+	
+}
+#td2
+{
+
+	font-size: 14pt;
+}
+
+#th2
+{
+
+	font-size: 14pt;
+}
+
+#table2
+{
+	margin-left: 20px;
+}
